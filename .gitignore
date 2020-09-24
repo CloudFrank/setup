@@ -1,5 +1,10 @@
 # Setup
-.nvm
+.nvm/
+.cargo/
+.rustup/
+
+# 
+*.swp
 
 # Logs
 logs
